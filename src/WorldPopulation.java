@@ -1,5 +1,3 @@
-package makingDiff;
-
 import java.util.Scanner;
 
 public class WorldPopulation {
